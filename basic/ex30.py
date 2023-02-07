@@ -8,4 +8,3 @@ h = int(input("Input the height : "))
 area = (b/2)*h
 
 print("area = ", area)
-2
